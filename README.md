@@ -1,1 +1,3 @@
 Hello! This is my submission for the first week's homework. I've spent a lot of time during the pandemic cooking and baking so I thought it would be fun to create a fictional business about pies. My index file provides an overview of the business. The about us file has a bit of a background on me and how I got into baking. The menu file includes a sample of products the fictional business offers. Looking forward to your feedback. - Alex
+
+For week 2's HW, my Netlify site is: https://gifted-hopper-be3c94.netlify.app/
